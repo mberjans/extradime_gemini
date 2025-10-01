@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/Mark/Extradime/extradime_gemini/logs/.78d5b973631697949084026550ade6102e558008-audit.json",
+    "files": [
+        {
+            "date": 1759294031505,
+            "name": "/Users/Mark/Extradime/extradime_gemini/logs/mcp-puppeteer-2025-09-30.log",
+            "hash": "e1c32f92abcb03796c10b05901847a50a3334ba115e56ba0bfc7ec9613bfecef"
+        }
+    ],
+    "hashType": "sha256"
+}
